@@ -1,4 +1,4 @@
-- 👋 Olá, mundo! Eu sou o Caio
+- 👋 Olá, mundo! Eu sou  @caiobzr
 - 💻 Atualmente sou Analista de Implantação - ANYMARKET - DB1 Group
 - 👀 No momento estou aprendendo PYTHON / CSS
 - 📚 Estudante de ADM na Unicesumar, mas amante da programação
