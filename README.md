@@ -1,6 +1,6 @@
 - 👋 Olá, mundo! Eu sou  @caiobzr
 - 💻 Atualmente sou Analista de Implantação - ANYMARKET - DB1 Group
-- 👀 No momento estou aprendendo PYTHON / CSS
+- 👀 No momento estou estudando PYTHON / HTML/ CSS
 - 📚 Estudante de ADM na Unicesumar, mas amante da programação
 - 📫 Entre em contato comigo caioemanuel12.ce@gmai.com
 
