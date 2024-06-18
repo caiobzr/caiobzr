@@ -1,7 +1,9 @@
 ## - 👋 Olá, mundo! Eu sou  @caiobzr!
 - 💻 Atualmente sou Analista de Suporte TI - Unimed Cianorte
 - 👀 No momento estou estudando JavaScript
-- 📚 Estudante de ADM na Unicesumar, mas amante da programação
+- 📚 Bacharelado em ADM pela Unicesumar
+- 📚 Cursando Analise e Desenvolvimento de Sistemas pela Unicesumar
+- 📚 Pós-Graduando em Ciencia de Dados pela Unicesumar
 - 📫 Entre em contato comigo caioemanuel12.ce@gmai.com
 
 <!---
